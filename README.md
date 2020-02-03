@@ -4,30 +4,27 @@
 
 ## Running
 
-To start and install type
+To install packages and start local http server type
 
 ```sh
 npm i; npm start
 ```
 
-then visit `http://localhost:1234`
+your parcel dev server should be running on [http://localhost:1234](http://localhost:1234)
 
 ## Publishing as github page
 
-to compile project and make it ready to be published as `github page` type
+In order to publish your project as github, enable `github pages` on your repo setting. 
+(To be precise: go to repository settings under `GitHub Pages` sections set as a source: `master branch /docs folder`)
+
+Then build your project by typing
 
 ```sh
 npm run build
 ```
 
-Compiled application is now available in `docs/` directory. 
-Two additional steps are needed to make your application live.
+That compiles your react/ts app into your local _docs/_ folder. Now add all generated content to your git repo and `push` it.
+When that will finish, your app should be available on https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/ 
 
-1. In your github repository settings under `GitHub Pages` sections set `master branch /docs folder` as a source
-2. `commit` and `push` compiled files to your git repo (`docs/` folder)
-
-When that finished, your app should be available on https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/ 
-
-This repo build is availabe [here](https://gmoskal.github.io/smallest-react-ts/)
-
+This repo build is available [here](https://gmoskal.github.io/smallest-react-ts/)
 ## Happy coding
