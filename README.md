@@ -12,7 +12,7 @@ npm i; npm start
 
 your parcel dev server should be running on [http://localhost:1234](http://localhost:1234)
 
-## Publishing as github page
+## Publishing as a github page
 
 In order to publish your project as github, enable `github pages` on your repo setting. 
 (To be precise: go to repository settings under `GitHub Pages` sections set as a source: `master branch /docs folder`)
