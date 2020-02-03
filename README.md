@@ -1,4 +1,6 @@
-# Smallest React/Typescript build and publish example
+# Smallest React/Typescript build example
+
+<img alt="Smallest React/Typescript build and publish example" src="https://www.svgrepo.com/show/84150/hedgehog.svg" width="100px" />
 
 ## Running
 
@@ -24,9 +26,8 @@ Two additional steps are needed to make your application live.
 1. In your github repository settings under `GitHub Pages` sections set `master branch /docs folder` as a source
 2. `commit` and `push` compiled files to your git repo (`docs/` folder)
 
-After that finish, your app should be available on https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/ 
-For this repo that is: [https://gmoskal.github.io/smallest-react-ts/](https://gmoskal.github.io/smallest-react-ts/)
+When that finished, your app should be available on https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/ 
+
+This repo build is availabe [here](https://gmoskal.github.io/smallest-react-ts/)
 
 ## Happy coding
-
-![Smallest React/Typescript build and publish example](https://www.svgrepo.com/show/84150/hedgehog.svg)
