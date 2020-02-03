@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "parcel serve *.html --no-autoinstall",
-    "build": "rm -rf docs; npx parcel build index.html --out-dir docs"
+    "build": "rm -rf docs; npx parcel build index.html --public-url . --out-dir docs"
   },
   "devDependencies": {
     "@types/react": "16.9.19",

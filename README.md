@@ -20,5 +20,5 @@ npm run build
 
 Compiled application is now available in `docs/` directory. Now you need two additional steps in order to make your application available online.
 
-1. In your github repository settings under `GitHub Pages` sections set `master` branch as a source
+1. In your github repository settings under `GitHub Pages` sections set `master branch /docs folder` as a source
 2. `commit` and `push` compiled files to your git repo (`docs/` folder)
