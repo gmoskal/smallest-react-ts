@@ -27,4 +27,6 @@ Two additional steps are needed to make your application live.
 After that finish, your app should be available on https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/ 
 For this repo that is: [https://gmoskal.github.io/smallest-react-ts/](https://gmoskal.github.io/smallest-react-ts/)
 
-## Happy coding!
+## Happy coding
+
+![Smallest React/Typescript build and publish example](https://www.svgrepo.com/show/84150/hedgehog.svg)
